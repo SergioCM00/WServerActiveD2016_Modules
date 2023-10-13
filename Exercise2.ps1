@@ -3,7 +3,7 @@
   The file books a Ip in a scope
 
   .DESCRIPTION
-  The Exercise 1.ps1 book an IP in the scope based in a range, a MAC Address and a recommended IP Address.
+  The Exercise 2.ps1 book an IP in the scope based in a range, a MAC Address and a recommended IP Address.
 
 #>
 
